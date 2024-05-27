@@ -1,7 +1,7 @@
 <p align="center" ><a href="https://www.linkedin.com/in/adityakuma0702/"><img width="100%" alt="Hello, I'm Aditya. I am a learning developer!" src="./Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" /></a></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Aditya?style=social)](https://twitter.com/aditya07024)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya07024/)]([https://www.linkedin.com/in/aditya07024/](https://www.linkedin.com/in/adityakuma0702/))
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakuma0702/)]
 [![GitHub Thaiane](https://img.shields.io/github/followers/aditya?label=follow&style=social)](https://github.com/aditya07024)
 
 
