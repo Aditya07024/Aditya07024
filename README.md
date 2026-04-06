@@ -6,7 +6,7 @@
 
 
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate FullStack Developer from India 🇮🇳
 
 <br>
 
